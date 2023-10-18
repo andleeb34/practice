@@ -1,0 +1,12 @@
+@import url("veriable.scss");
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    .box1{
+        height: 300px;
+        width: 300px;
+        background-color:$color;
+    }
+}
